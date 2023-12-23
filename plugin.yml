@@ -1,0 +1,13 @@
+---
+name: CustomArmor&Tools
+main: DavyCraft648\Oceanite\Main
+src-namespace-prefix: DavyCraft648\Oceanite
+version: 9.9.9
+api:
+- 5.0.0
+depend:
+- Customies
+authors:
+- Verucaa
+description: Custom Tools and Armor for PMMP!
+...
